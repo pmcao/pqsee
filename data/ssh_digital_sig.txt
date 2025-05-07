@@ -1,0 +1,4 @@
+  13627 ssh-ed25519
+    470 ecdsa-sha2-nistp256
+     28 rsa-sha2-512
+      4 Algorithm negotiation failed
